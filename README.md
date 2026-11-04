@@ -66,8 +66,6 @@ A *taxa* de fraude sobe de forma monotônica com o valor, mas a *perda em reais*
 ```
 projeto-sql-fraude/
 ├── README.md                          ← você está aqui
-├── orientacao_e_gabarito/
-│   └── orientacoes_do_case.docx       ← enunciado original do case
 ├── sql/
 │   ├── tabela_unificada_modelo.sql    ← ETL: constrói a abt_fraude
 │   └── queries_analiticas.sql         ← queries de todas as seções do relatório
